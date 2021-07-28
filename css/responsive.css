@@ -1,0 +1,315 @@
+@media (min-width: 320px) and (max-width: 480px){
+.header .img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.banner h1 {
+    font-size: 40px;
+    line-height: 60px;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(255 248 248 / 55%);
+    border-color: rgba(0,0,0,.1);
+}
+.banner .btn-info {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 8px 30px;
+}
+.about-txt {
+    padding: 60px 0px;
+}
+.about h3 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.about p {
+    font-size: 20px;
+}
+.about {
+    padding: 10px 0px;
+}
+.foood h4 {
+    margin-left: -20px;
+    font-size: 30px;
+}
+.foood p {
+    margin-left: -40px;
+    font-size: 18px;
+}
+.gallery h1 {
+    font-size: 40px;
+}
+.padd {
+    margin-left: 10px;
+}
+.enjoy-txt {
+   font-size: 15px;
+   padding: 0px 0px;
+}
+.enjoy-txt p {
+    font-size: 20px;
+}
+.enjoy-txt h1 {
+    font-size: 40px;
+}
+.ourmenu h1 {
+    font-size: 50px;
+}
+.ourmenu {
+    padding: 40px 0px;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    margin-top: 25px;
+}
+.meal-txt h1 {
+    font-size: 40px;
+}
+.meal {
+    padding: 80px 0px;
+}
+.foood .img-fluid {
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 170px;
+}
+.meal-txt h1 {
+    font-size: 40px;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.meal-txt p {
+    font-size: 15px;
+    text-align: center;
+}
+.foood .img-fluid {
+    width: 250px;
+    margin-left: 0px;
+    margin-top: 220px;
+}
+.imagess .img-fluid {
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+.lover .img-fluid {
+    max-width: 100%;
+    margin-top: 200px;
+    height: auto;
+}
+.lover .ddddd ul li a {
+    margin-left: -15px;
+    font-size: 16px;
+}
+.lover .ddddd ul {
+    margin-left: -15px;
+}
+.lover p {
+    font-size: 15px;
+    margin-left: 10px;
+}
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+.header .img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.banner h1 {
+    font-size: 40px;
+    line-height: 60px;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(255 248 248 / 55%);
+    border-color: rgba(0,0,0,.1);
+}
+.banner .btn-info {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 8px 30px;
+}
+.about-txt {
+    padding: 60px 0px;
+}
+.about h3 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.about p {
+    font-size: 20px;
+}
+.about {
+    padding: 10px 0px;
+}
+.foood h4 {
+    margin-left: -20px;
+    font-size: 30px;
+}
+.foood p {
+    margin-left: -40px;
+    font-size: 18px;
+}
+.gallery h1 {
+    font-size: 40px;
+}
+.gallery .padd {
+    margin-left: 30px;
+}
+.protfolio .item:hover .item-hover {
+    transform: scale(1);
+    width: 407px;
+}
+.enjoy-txt {
+   font-size: 15px;
+   padding: 0px 0px;
+}
+.enjoy-txt p {
+    font-size: 20px;
+}
+.enjoy-txt h1 {
+    font-size: 40px;
+}
+.ourmenu h1 {
+    font-size: 50px;
+}
+.ourmenu {
+    padding: 40px 0px;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    margin-top: 25px;
+}
+.meal-txt h1 {
+    font-size: 40px;
+}
+.meal {
+    padding: 80px 0px;
+}
+.foood .img-fluid {
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 170px;
+}
+.meal-txt h1 {
+    font-size: 40px;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.meal-txt p {
+    font-size: 15px;
+    text-align: center;
+}
+.foood .img-fluid {
+    width: 250px;
+    margin-left: 0px;
+    margin-top: 220px;
+}
+.imagess .img-fluid {
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+.lover .img-fluid {
+    max-width: 100%;
+    margin-top: 200px;
+    height: auto;
+}
+.lover .ddddd ul li a {
+    margin-left: -15px;
+    font-size: 16px;
+}
+.lover .ddddd ul {
+    margin-left: -15px;
+}
+.lover p {
+    font-size: 15px;
+    margin-left: 10px;
+}
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+ .banner {
+    width: 100%;
+    padding: 20px 0px;
+}
+.banner h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.header .img-fluid {
+    width: 100%;
+    height: auto;
+    margin-top: 80px;
+}
+.banner p {
+    font-size: 15px;
+    font-weight: 400;
+}
+.banner .btn-info {
+    font-size: 16px;
+    padding: 8px 30px;
+}
+.about h3 {
+    font-size: 40px;
+}
+.about-txt {
+    padding: 0px 0px;
+}
+.about p {
+    font-size: 18px;
+}
+.foood {
+    width: 100%;
+    background: url(../images/0000.png) center top no-repeat;
+    background-size: cover;
+    height: 1250px;
+    background-color: #1d1d23;
+}
+.foood p {
+    color: #000;
+}
+.ourmenu h5 {
+    font-size: 12px;
+}
+.ourmenu p {
+    font-size: 10px;
+    /* line-height: 25px; */
+    font-weight: 200;
+    color: #fff;
+}
+.ourmenu h6 {
+    font-size: 15px;
+}
+.enjoy-txt {
+    text-align: center;
+    padding: 0px 0px;
+    border: 7px solid #e58f00;
+    padding: 0px;
+}
+.enjoy-txt p {
+    font-size: 20px;
+    font-weight: 400;
+}
+.enjoy-txt h1 {
+    font-size: 30px;
+    margin-top: 20px;
+}
+.meal {
+    width: 100%;
+    background: url(../images/us.png) center top no-repeat;
+    background-size: cover;
+    padding: 120px 0px;
+}
+.imagess .img-fluid {
+    width: 350px;
+    margin-top: 120px;
+}
+.meal-txt h1 {
+    font-size: 40px;
+}
+}
+
+@media (min-width: 1024px) and (max-width: 1320px){
+
+}
